@@ -17,7 +17,7 @@ $lang['imglib_writing_failed_gif'] = "Die GIF-Datei konnte nicht erzeugt werden.
 $lang['imglib_invalid_path'] = "Der Pfad zur Bilddatei ist ung&uuml;ltig.";
 $lang['imglib_copy_failed'] = "Das Kopieren der Bilddatei ist fehlgeschlagen.";
 $lang['imglib_missing_font'] = "Es konnte keine Schriftartendatei gefunden werden.";
-$lang['imglib_save_failed'] = "Unm&ouml;glich das Bild zu sichern.  Bitte pr&uuml;fen Sie die Rechte der Datei und seines Verzeichnisses.";
+$lang['imglib_save_failed'] = "Sichern der Bilddatei fehlgeschlagen. Vergewissern Sie sich, dass die Bilddatei und das Zielverzeichnis beschreibbar sind.";
 
 
 /* End of file imglib_lang.php */

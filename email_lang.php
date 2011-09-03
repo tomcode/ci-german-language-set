@@ -17,7 +17,7 @@ $lang['email_failed_smtp_login'] = "Der AUTH LOGIN konnte nicht gesendet werden.
 $lang['email_smtp_auth_un'] = "Der Benutzername konnte nicht best&auml;tigt werden. Fehler: %s";
 $lang['email_smtp_auth_pw'] = "Das Passwort konnte nicht best&auml;tigt werden. Fehler: %s";
 $lang['email_smtp_data_failure'] = "Die Daten konnten nicht versandt werden: %s";
-$lang['email_exit_status'] = "Code des Endstatus: %s";
+$lang['email_exit_status'] = "Abbruch Statuscode: %s";
 
 
 /* End of file email_lang.php */

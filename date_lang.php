@@ -56,5 +56,6 @@ $lang['UP1275']	= '(UTC +12:45) Chatham-Inseln Standardzeit';
 $lang['UP13']	= '(UTC +13:00) Phoenix-Inseln Standardzeit, Tonga Zeit';
 $lang['UP14']	= '(UTC +14:00) Line-Inseln Zeit';
 
+
 /* End of file date_lang.php */
 /* Location: ./system/language/german/date_lang.php */
