@@ -3,6 +3,7 @@
 $lang['required'] 		= "Das Feld %s ist ein Pflichtfeld.";
 $lang['isset']			= "Das Feld %s muss einen Wert enthalten.";
 $lang['valid_email']	= "Das Feld %s muss eine g&uuml;ltige E-Mail-Adresse enthalten.";
+$lang['valid_emails'] 	= "Das Feld %s kann nur g&uuml;ltige E-Mail-Adressen enthalten.";
 $lang['valid_url'] 		= "Das Feld %s muss eine g&uuml;ltige Web-Adresse (URL) enthalten.";
 $lang['valid_ip'] 		= "Das Feld %s muss eine g&uuml;ltige IP enthalten.";
 $lang['min_length']		= "Das Feld %s muss mindestens %s Zeichen lang sein.";
