@@ -18,4 +18,6 @@ $lang['email_smtp_auth_un'] = "Der Benutzername konnte nicht best&auml;tigt werd
 $lang['email_smtp_auth_pw'] = "Das Passwort konnte nicht best&auml;tigt werden. Fehler: %s";
 $lang['email_smtp_data_failure'] = "Die Daten konnten nicht versandt werden: %s";
 
-?>
+
+/* End of file email_lang.php */
+/* Location: ./system/language/german/email_lang.php */

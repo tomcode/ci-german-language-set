@@ -19,4 +19,6 @@ $lang['ut_object']			= 'Objekt';
 $lang['ut_resource']		= 'Ressource';
 $lang['ut_null']			= 'Null';
 
-?>
+
+/* End of file unit_testing_lang.php */
+/* Location: ./system/language/german/unit_testing_lang.php */

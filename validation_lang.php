@@ -15,4 +15,6 @@ $lang['numeric']		= "Das Feld %s darf nur Zahlen enthalten.";
 $lang['integer']		= "Das Feld %s darf nur Integer Werte enthalten.";
 $lang['matches']		= "Das Feld %s muss mit dem Feld %s &uuml;bereinstimmen.";
 
-?>
+
+/* End of file validation_lang.php */
+/* Location: ./system/language/german/validation_lang.php */

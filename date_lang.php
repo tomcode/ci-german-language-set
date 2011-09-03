@@ -46,4 +46,6 @@ $lang['UP10']	= "(UTC + 10:00) Melbourne, Papua Neu-Guinea, Sydney, Wladiwostok"
 $lang['UP11']	= "(UTC + 11:00) Magadan, Neu-Kaledonien, Salomonen";
 $lang['UP12']	= "(UTC + 12:00) Auckland, Wellington, Fidschi, Marshall-Inseln";
 
-?>
+
+/* End of file date_lang.php */
+/* Location: ./system/language/german/date_lang.php */

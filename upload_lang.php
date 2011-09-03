@@ -17,4 +17,6 @@ $lang['upload_no_file_types'] = "Es wurden keine g&uuml;ltigen Dateitypen zum Ho
 $lang['upload_bad_filename'] = "Eine Datei gleichen Namens ist bereits in der Datenbank vorhanden.";
 $lang['upload_not_writable'] = "Der Pfad zum Speichern hochgeladener Dateien ist schreibgesch&uuml;tzt.";
 
-?>
+
+/* End of file upload_lang.php */
+/* Location: ./system/language/german/upload_lang.php */
