@@ -17,6 +17,7 @@ $lang['is_numeric']			= "Das Feld %s darf nur zahlen&auml;hnliche Zeichen enthal
 $lang['integer']			= "Das Feld %s darf nur ganze Zahlen enthalten.";
 $lang['regex_match']		= "Das Feld %s ist nicht im richtigen Format.";
 $lang['matches']			= "Das Feld %s muss mit dem Feld %s &uuml;bereinstimmen.";
+$lang['is_unique'] 			= "Das Feld %s muss einen einzigartigen Wert enthalten.";
 $lang['is_natural']			= "Das Feld %s darf nur positive Zahlen enthalten.";
 $lang['is_natural_no_zero']	= "Das Feld %s darf nur Zahlen gr&ouml;sser als Null enthalten.";
 $lang['decimal']			= "Das Feld %s muss eine Dezimalzahl enthalten.";
