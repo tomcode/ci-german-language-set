@@ -1,4 +1,4 @@
-<?php 
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); 
 
 $lang['migration_none_found']			= "Keine Migrationen gefunden.";
 $lang['migration_not_found']			= "Diese Migration wurde nicht gefunden.";

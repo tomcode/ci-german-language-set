@@ -1,4 +1,4 @@
-<?php
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['email_must_be_array'] = "Die E-Mail-Validierungsmethode muss als Array &uuml;bermittelt werden.";
 $lang['email_invalid_address'] = "Ung&uuml;ltige E-Mail-Adresse: %s";

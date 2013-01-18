@@ -1,4 +1,4 @@
-<?php
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['db_invalid_connection_str'] = 'Die Datenbankkonfiguration konnte nicht f&uuml;r die angegebene Verbindung ermittelt werden.';
 $lang['db_unable_to_connect'] = 'Mit den angegebenen Verbindungsdaten konnte keine Verbindung zur Datenbank hergestellt werden.';

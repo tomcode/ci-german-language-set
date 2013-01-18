@@ -1,4 +1,4 @@
-<?php
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['form_validation_required']				= "Das Feld %s ist ein Pflichtfeld.";
 $lang['form_validation_isset']					= "Das Feld %s muss einen Wert enthalten.";
