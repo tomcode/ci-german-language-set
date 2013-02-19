@@ -20,6 +20,7 @@ $lang['profiler_no_memory']		= 'Speichernutzung unbekannt';
 $lang['profiler_no_profiles']	= 'Keine Profiler Daten - alle Sektionen sind deaktivert.';
 $lang['profiler_section_hide']	= 'Verbergen';
 $lang['profiler_section_show']	= 'Zeigen';
+$lang['profiler_seconds']		= 'Sekunden';
 
 /* End of file profiler_lang.php */
 /* Location: ./system/language/german/profiler_lang.php */
