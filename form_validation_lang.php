@@ -24,9 +24,9 @@ $lang['form_validation_is_natural']				= 'Das Feld {field} darf nur positive Zah
 $lang['form_validation_is_natural_no_zero']		= 'Das Feld {field} darf nur Zahlen gr&ouml;sser als Null enthalten.';
 $lang['form_validation_decimal']				= 'Das Feld {field} muss eine Dezimalzahl enthalten.';
 $lang['form_validation_less_than']				= 'Das Feld {field} muss eine Zahl kleiner als {param} enthalten.';
-$lang['form_validation_less_than_equal_to']		= 'Das Feld {field} muss eine Zahl kleiner oder gleich als {param} enthalten.';
+$lang['form_validation_less_than_equal_to']		= 'Das Feld {field} muss eine Zahl kleiner oder gleich {param} enthalten.';
 $lang['form_validation_greater_than']			= 'Das Feld {field} muss eine Zahl gr&ouml;sser als {param} enthalten.';
-$lang['form_validation_greater_than_equal_to']	= 'Das Feld {field} muss eine Zahl gr&ouml;sser oder gleich als {param} enthalten.';
+$lang['form_validation_greater_than_equal_to']	= 'Das Feld {field} muss eine Zahl gr&ouml;sser oder gleich {param} enthalten.';
 
 /* End of file form_validation_lang.php */
 /* Location: ./system/language/german/form_validation_lang.php */
