@@ -1,4 +1,4 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
 
 $lang['ftp_no_connection']			= "Es konnte keine g&uuml;ltige Verbindungs-ID gefunden werden. Stellen Sie sicher, dass eine Verbindung besteht, bevor Dateioperationen ausgef&uuml;hrt werden.";
 $lang['ftp_unable_to_connect']		= "Es konnte keine Verbindung zum angegebenen Server hergestellt werden.";

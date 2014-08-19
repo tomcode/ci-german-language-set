@@ -1,4 +1,4 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
 
 $lang['db_invalid_connection_str'] = 'Die Datenbankkonfiguration konnte nicht f&uuml;r die angegebene Verbindung ermittelt werden.';
 $lang['db_unable_to_connect'] = 'Mit den angegebenen Verbindungsdaten konnte keine Verbindung zur Datenbank hergestellt werden.';
@@ -15,8 +15,8 @@ $lang['db_field_param_missing'] = 'Der Name der Tabelle, aus der Daten abgefragt
 $lang['db_unsupported_function'] = 'Dieser Befehl wird von der verwendeten Datenbank nicht unterst&uuml;tzt.';
 $lang['db_transaction_failure'] = 'Die Transaktion ist fehlgeschlagen: Der vorherige Zustand wurde wiederhergestellt.';
 $lang['db_unable_to_drop'] = 'Die Datenbank konnte nicht gel&ouml;scht werden.';
-$lang['db_unsupported_feature'] = 'Dieser Befehl wird von der verwendeten Datenbank nicht unterst&uuml;tzt.';
-$lang['db_unsupported_compression'] = 'Das verwendete Kompressions-Dateiformat wird von der Datenbank nicht unterst&uuml;tzt.';
+$lang['db_unsuported_feature'] = 'Dieser Befehl wird von der verwendeten Datenbank nicht unterst&uuml;tzt.';
+$lang['db_unsuported_compression'] = 'Das verwendete Kompressions-Dateiformat wird von der Datenbank nicht unterst&uuml;tzt.';
 $lang['db_filepath_error'] = 'Die Ausgabe von Daten in den angegebenen Dateipfad ist fehlgeschlagen.';
 $lang['db_invalid_cache_path'] = 'Der Zwischenspeicher-Pfad (Cache) ist ung&uuml;ltig oder schreibgesch&uuml;tzt.';
 $lang['db_table_name_required'] = 'F&uuml;r diese Verarbeitung wird ein Tabellenname ben&ouml;tigt.';

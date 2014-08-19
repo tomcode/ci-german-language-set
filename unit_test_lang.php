@@ -1,4 +1,4 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
 
 $lang['ut_test_name']		= 'Testname';
 $lang['ut_test_datatype']	= 'Test-Datentyp ';

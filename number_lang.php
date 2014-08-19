@@ -1,4 +1,4 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
 
 $lang['terabyte_abbr'] = "Tb";
 $lang['gigabyte_abbr'] = "Gb";

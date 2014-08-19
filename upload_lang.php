@@ -1,4 +1,4 @@
-<?php defined('BASEPATH') OR exit('No direct script access allowed');
+<?php
 
 $lang['upload_userfile_not_set'] = "Die POST-Variable userfile wurde nicht &uuml;bergeben.";
 $lang['upload_file_exceeds_limit'] = "Die Gr&ouml;sse der hochgeladenen Datei &uuml;berschreitet den in der PHP-Konfiguration angegebenen Maximalwert.";
